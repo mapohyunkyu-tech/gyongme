@@ -4,3 +4,6 @@
 
 PWA 설치: 이 폴더 전체를 HTTPS 웹호스팅(GitHub Pages, Netlify 등)에 올린 뒤 index.html을 열고 브라우저의 홈 화면에 추가/앱 설치를 사용하세요.
 단순 확인은 index.html을 열어도 되지만 service worker/PWA 설치는 HTTPS 또는 localhost 환경이 필요합니다.
+
+
+v2: 짧은 문제는 기존 크기 유지. 문제 지문 180자 이상만 자동 축소. 해설 250자 이상만 자동 축소하고 ㄱ/ㄴ/ㄷ/ㄹ·①/②/③/④ 판정 단위로 줄바꿈.
